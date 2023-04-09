@@ -18,7 +18,7 @@ contract BalanceReader{
             token = IERC20(tokens[i]);
             balances.push(token.balanceOf(addr));
         }
-
+        
         return balances;
     }
 }

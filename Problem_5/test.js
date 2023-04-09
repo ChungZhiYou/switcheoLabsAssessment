@@ -24,4 +24,5 @@ const test = async () => {
 	return balances;
 };
 
+
 test().then(console.log);

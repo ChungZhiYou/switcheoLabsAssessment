@@ -1,8 +1,8 @@
 {
-  "name": "problem_5",
+  "name": "switcheolabsassessment",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

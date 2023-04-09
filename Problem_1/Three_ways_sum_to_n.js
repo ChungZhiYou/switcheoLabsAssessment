@@ -25,5 +25,3 @@ var sum_to_n_c = function(n) {
 console.log(sum_to_n_a(50));
 console.log(sum_to_n_b(50));
 console.log(sum_to_n_c(50));
-
-
